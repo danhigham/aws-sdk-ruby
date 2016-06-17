@@ -2343,6 +2343,7 @@
         "GroupName":{"shape":"String"},
         "GroupId":{"shape":"String"},
         "SourceSecurityGroupName":{"shape":"String"},
+        "SourceSecurityGroupId":{"shape":"String"},        
         "SourceSecurityGroupOwnerId":{"shape":"String"},
         "IpProtocol":{"shape":"String"},
         "FromPort":{"shape":"Integer"},
